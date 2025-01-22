@@ -1,0 +1,13 @@
+0,1
+Born,Birth year – * indicates an uncertain birth year; see actor's article
+Age,"Current age for living actors, or age at death"
+Nominations,The total nominations for lead and supporting roles
+Wins,The total wins for lead and supporting roles
+Lead and supporting details,examples below
+L,All nominations were for Lead roles
+S,All nominations were for Supporting roles
+2L:1S,"2 Lead nominations, 1 Supporting nomination - no wins"
+5L1:2S1,"5 Lead nominations with 1 win, 2 Supporting nominations with 1 win"
+Film,"First winning film role, else first nominated film role, with lead roles taking precedence"
+First year,"Year of first nomination (if italicized, it is the year of the listed film)"
+Last year,"Year of last nomination (if italicized, it is the year of the listed film)"
